@@ -19,3 +19,4 @@ doc/
 
 # Jekyll Generated Site
 _site
+s3_website.yml
